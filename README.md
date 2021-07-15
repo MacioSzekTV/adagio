@@ -35,4 +35,17 @@ frame.delete());
 
 # Panel
 
-##
+## .setTitle
+```java
+Panel panel = new Panel();
+panel.setTitle("My panel");
+```
+
+![image](https://user-images.githubusercontent.com/47892486/125824481-7edb2494-1adf-43ac-b49a-1b9a20722fd5.png)
+
+## .getTitle
+
+```java
+Panel panel = new Panel();
+panel.getTitle();
+```
