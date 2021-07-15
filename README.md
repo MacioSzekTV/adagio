@@ -1,5 +1,4 @@
-# Adagio
-## GUI & GAME Framework for JAVA
+# Adagio - GUI & GAME Framework for JAVA
 
 # Examples
 
