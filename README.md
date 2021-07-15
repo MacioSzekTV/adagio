@@ -24,6 +24,10 @@ URL url = "https://avatars.githubusercontent.com/u/47892486"
 frame.setIcon(url);
 ```
 
+![image](https://user-images.githubusercontent.com/47892486/125823028-27ccaebc-e189-4127-867c-2f600c1b716f.png)
+![image](https://user-images.githubusercontent.com/47892486/125823047-a1901cd2-a854-44a2-a500-16848f2399bc.png)
+
+
 ## .delete
 ```java
 frame.delete());
