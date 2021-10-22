@@ -29,7 +29,7 @@ frame.setIcon(url);
 
 ## .delete
 ```java
-frame.delete());
+frame.delete();
 ```
 
 # Panel
