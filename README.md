@@ -19,7 +19,7 @@ frame.create(width, height, title);
 
 ## .setIcon
 ```java
-URL url = "https://avatars.githubusercontent.com/u/47892486"
+URL url = new URL("https://avatars.githubusercontent.com/u/47892486")
 frame.setIcon(url);
 ```
 
